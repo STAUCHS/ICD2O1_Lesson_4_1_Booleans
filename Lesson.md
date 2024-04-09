@@ -1,6 +1,6 @@
 # 4.1 Booleans
 
-A **boolean** is a value that can be either `true` or `false`.
+A **boolean** is a value that can be either `True` or `False`.
 You can think of it as an answer to a "yes" or "no" question. 
 
 #### Some Real Life Examples:
